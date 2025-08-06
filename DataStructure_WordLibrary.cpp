@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// Johannes Aaron Framon (2802428223)
+// Johannes Aaron Framon
 
 struct data{ 
     struct data *children[26]; 
@@ -204,4 +204,5 @@ void menu(){
 int main(){
     menu();
     return 0;
+
 }
