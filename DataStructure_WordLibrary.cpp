@@ -172,7 +172,7 @@ void viewAll(){
 void menu(){
     int option = -1;
     do{
-        printf("Boogle\n");
+        printf("Wordlibrary\n");
         printf("Select Menu Below\n");
         printf("1. Release a new slang word\n");
         printf("2. Search a slang word\n");
@@ -204,4 +204,5 @@ int main(){
     return 0;
 
 }
+
 
