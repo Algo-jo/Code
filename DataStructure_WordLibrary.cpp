@@ -197,8 +197,6 @@ void menu(){
         }
     }while(option != 5);
     printf("Thank you... Have a nice day!\n");
-    printf("Goodbye\n\n");
-    printf("Johannes Aaron Framon - 2802428223\n");
 }
 
 int main(){
@@ -206,3 +204,4 @@ int main(){
     return 0;
 
 }
+
