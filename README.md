@@ -1,4 +1,5 @@
 📝 Description
+
 Wordlibrary is a command-line dictionary application that allows users to store, search, and manage slang words along with their descriptions. This program is built using a Trie (Prefix Tree) data structure for efficient word search and prefix-based operations.
 
 💡 Features
